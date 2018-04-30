@@ -1,4 +1,4 @@
-# Visualization Partisanship in Senate Voting
+# Visualizing Partisanship in US Senate Voting
 
 ## Introduction
 
