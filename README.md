@@ -1,4 +1,4 @@
-# Visualization Partisanship in Senate Voting (2009 and 2017)
+# Visualization Partisanship in Senate Voting
 
 ## Introduction
 
