@@ -1,3 +1,9 @@
+# Mac Files
 .DS_Store
+
+# Jupyter notebook files
 *.ipynb_checkpoints
-output/
+
+# Folders
+data/
+*_archives/
